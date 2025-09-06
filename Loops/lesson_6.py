@@ -7,4 +7,3 @@ for i in range(rows):
     for j in range(cols):
         line += "*"
     print(line)
-g
