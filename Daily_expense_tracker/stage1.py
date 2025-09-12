@@ -1,0 +1,8 @@
+print("Welcome to the Daily Expense Tracker!\n")
+print("\n")
+print("Menu:\n")
+print("1. Add a new expense\n")
+print("2. View all expense\n")
+print("3. Calculate total and average expense\n")
+print("4. Clear all expenses\n")
+print("5. Exit")
